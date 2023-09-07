@@ -27,5 +27,5 @@ Stay Connected:
 Stay updated with the latest developments, bug fixes, and feature releases by following QRCodeGen on GitHub.
 
 GitHub Repository:
-Link to GitHub Repository
+https://aryapatel14.github.io/QRCodeGen/
 With QRCodeGen, you have the power to quickly generate QR codes for various purposes, whether it's sharing information, promoting a website, or simplifying data entry. Start using QRCodeGen today and experience the convenience of QR code generation at your fingertips! 📱🔗
